@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date: 14.03.2024
+## Date: 25.03.2024
 ## AIM
 To write a html webpage page to display your slot timetable.
 
@@ -23,9 +23,10 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <html>
 <head>
-<title>My Time Table</title>
+<title> My Time Table</title>
 </head>
 <body>
 <center>
@@ -94,7 +95,7 @@ Execute the program using runserver command.
 <tr>
 <td align="center">1.</td>
 <td align="center">19AI414</td>
-<td>FUNDAMENTALS OF WEB </td> 
+<td>FUNDAMENTALS OF WEB</td> 
 </tr>
 <tr>
 <td align="center">2.</td>
@@ -103,23 +104,23 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">3.</td>
-<td align="center">19CP205</td>
+<td align="center">19Cs407</td>
 <td>THEORY OF COMPUTATION</td> 
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19AI414</td>
-<td>PRINCIPLES OF CHEMISTRY </td> 
+<td align="center">19AI303</td>
+<td>EMPD</td> 
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center">19MA211</td>
+<td align="center">19CS406</td>
 <td>COMPUTER NETWORKS</td> 
 </tr>
 <tr>
 <td align="center">6.</td>
-<td align="center">19EY701</td>
-<td>FUNDAMENTALS OF WEB </td> 
+<td align="center">19EY702</td>
+<td>CREATIVE SKILLS</td> 
 <tr>
 <td align="center">7.</td>
 <td align="center">19EE404</td>
@@ -129,9 +130,9 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
+```
 ## OUTPUT
-![Screenshot 2024-03-14 133145](https://github.com/ajinajoshpin/slot/assets/148514578/9b95d7e8-c913-4ef0-8dbd-4f409395af07)
+![Screenshot 2024-03-26 084523](https://github.com/ajinajoshpin/slot/assets/148514578/6e02b157-ec29-45f7-9008-112158e8b89f)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
